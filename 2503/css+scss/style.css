@@ -1,0 +1,28 @@
+.tasto {
+  background-color: #f1f14d;
+  color: #080a0c;
+  font-size: 22pt;
+  border: none;
+  margin: 4px 2px;
+  height: 50px;
+  width: 50px;
+}
+
+.display {
+  background: none;
+  color: #000000;
+  font-size: 24pt;
+  border: #000000 solid 2px;
+  margin: 4px 2px;
+  width: 225px;
+  height: 40px;
+}
+
+.uguale, .reset {
+  width: 110px;
+}
+
+.fuffi {
+  margin: 10vh 0%;
+}
+/*# sourceMappingURL=style.css.map */
